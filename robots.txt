@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danny6042.github.io/Mombasa-Breeze-Guest-House/sitemap.xml
