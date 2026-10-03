@@ -1369,7 +1369,8 @@ textarea.form-control {
     gap: 10px;
 }
 
-.social-links a {
+.social-links a,
+.social-links span {
     width: 40px;
     height: 40px;
     display: grid;
